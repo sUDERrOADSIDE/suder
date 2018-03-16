@@ -36,7 +36,7 @@ else
 
 {
 
-printf("\n yes");
+printf("\n s");
 
 }
 
